@@ -1,13 +1,13 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "Valutatori di Banca Etica"
+subtitle: Il blog per scambiare notizie, esperienze, riflessioni
 image: /img/home-jumbotron.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+    heading: Perché un blog?
+    text: "Sentiamo il bisogno di confrontarci, di parlare e di riflettere tra Valutatori Sociali, per raggiungere sempre meglio lo scopo di Banca Etica. Questo blog è costruito con strumenti liberamente disponibili e a costo zero."
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+    heading: "Perché partecipare?"
+    text: "Perchè crediamo nella democrazia orizzontale, in cui la partecipazione è attiva, in cui il confronto è sempre possibile e non intermediato. Questo si può fare solo essendo gentili nei rapporti ma franchi: l'etica deve stare dappertutto, anche tra noi"
 products:
     - image: img/illustrations-coffee.svg
       text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
