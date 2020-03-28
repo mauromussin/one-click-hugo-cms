@@ -1,2 +1,7 @@
 languageCode = "en-us"
-title = "My New Netlify Victor Hugo Site"
+title = "Valutatori di Banca Etica"
+[staticman]
+  endpoint = "https://api.staticman.net/v2/entry/"
+  username = "mauromussin"
+  repository = "one-click-hugo-cms"
+  branch = "master"
